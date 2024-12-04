@@ -1,0 +1,1 @@
+this is in gitignore why is this showing here in both navbar and bugfux and not staged
